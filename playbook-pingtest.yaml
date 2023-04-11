@@ -2,4 +2,4 @@
   name: Test connectivity to target server
   tasks:
     - name: Ping Test
-      ping: 
+      ping:
